@@ -1,0 +1,2 @@
+This is just a little repo to hold a couple of js files to learn and practice using tests with Jest.
+The files use ES6 syntax so a babel.config.js file is included so that jest is able to run with these files.
